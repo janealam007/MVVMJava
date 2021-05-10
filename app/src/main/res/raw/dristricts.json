@@ -1,0 +1,455 @@
+{
+  "type": "success",
+  "message": "Data found",
+  "code": 200,
+  "data": [
+    {
+      "district_id": "1",
+      "district_name": "Dhaka",
+      "district_name_bn": "ঢাকা",
+      "lat": "23.8057666",
+      "lon": "90.4024039"
+    },
+    {
+      "district_id": "2",
+      "district_name": "Faridpur",
+      "district_name_bn": "ফরিদপুর",
+      "lat": "23.4744698",
+      "lon": "89.5624416"
+    },
+    {
+      "district_id": "3",
+      "district_name": "Gazipur",
+      "district_name_bn": "গাজীপুর",
+      "lat": "24.111237",
+      "lon": "90.2854196"
+    },
+    {
+      "district_id": "4",
+      "district_name": "Gopalganj",
+      "district_name_bn": "গোপালগঞ্জ",
+      "lat": "23.0900668",
+      "lon": "89.6205863"
+    },
+    {
+      "district_id": "5",
+      "district_name": "Jamalpur",
+      "district_name_bn": "জামালপুর",
+      "lat": "24.998953",
+      "lon": "89.6517435"
+    },
+    {
+      "district_id": "6",
+      "district_name": "Kishoreganj",
+      "district_name_bn": "কিশোরগঞ্জ",
+      "lat": "24.3368299",
+      "lon": "90.6351914"
+    },
+    {
+      "district_id": "7",
+      "district_name": "Madaripur",
+      "district_name_bn": "মাদারীপুর",
+      "lat": "23.2379825",
+      "lon": "89.8666845"
+    },
+    {
+      "district_id": "8",
+      "district_name": "Manikganj",
+      "district_name_bn": "মানিকগঞ্জ",
+      "lat": "23.8305156",
+      "lon": "89.833993"
+    },
+    {
+      "district_id": "9",
+      "district_name": "Munshiganj",
+      "district_name_bn": "মুন্সিগঞ্জ",
+      "lat": "23.5262292",
+      "lon": "90.3057614"
+    },
+    {
+      "district_id": "10",
+      "district_name": "Mymensingh",
+      "district_name_bn": "ময়মনসিংহ",
+      "lat": "24.7489998",
+      "lon": "90.3613906"
+    },
+    {
+      "district_id": "11",
+      "district_name": "Narayanganj",
+      "district_name_bn": "নারায়াণগঞ্জ",
+      "lat": "23.6165372",
+      "lon": "90.4872339"
+    },
+    {
+      "district_id": "12",
+      "district_name": "Narsingdi",
+      "district_name_bn": "নরসিংদী",
+      "lat": "24.0221195",
+      "lon": "90.6336561"
+    },
+    {
+      "district_id": "13",
+      "district_name": "Netrakona",
+      "district_name_bn": "নেত্রকোণা",
+      "lat": "24.9288043",
+      "lon": "90.5638662"
+    },
+    {
+      "district_id": "14",
+      "district_name": "Rajbari",
+      "district_name_bn": "রাজবাড়ী",
+      "lat": "23.7378209",
+      "lon": "89.4437853"
+    },
+    {
+      "district_id": "15",
+      "district_name": "Shariatpur",
+      "district_name_bn": "শরীয়তপুর",
+      "lat": "23.2372269",
+      "lon": "90.2674809"
+    },
+    {
+      "district_id": "16",
+      "district_name": "Sherpur",
+      "district_name_bn": "শেরপুর",
+      "lat": "25.095614",
+      "lon": "90.100025"
+    },
+    {
+      "district_id": "17",
+      "district_name": "Tangail",
+      "district_name_bn": "টাঙ্গাইল",
+      "lat": "24.3765714",
+      "lon": "89.7298064"
+    },
+    {
+      "district_id": "18",
+      "district_name": "Chittagong",
+      "district_name_bn": "চট্টগ্রাম",
+      "lat": "22.326078",
+      "lon": "91.7496556"
+    },
+    {
+      "district_id": "19",
+      "district_name": "Bandarban",
+      "district_name_bn": "বান্দরবান",
+      "lat": "22.205685",
+      "lon": "92.212624"
+    },
+    {
+      "district_id": "20",
+      "district_name": "Brahmanbaria",
+      "district_name_bn": "ব্রাহ্মণবাড়িয়া",
+      "lat": "23.9590739",
+      "lon": "90.7424796"
+    },
+    {
+      "district_id": "21",
+      "district_name": "Chandpur",
+      "district_name_bn": "চাঁদপুর",
+      "lat": "23.2451083",
+      "lon": "90.5044431"
+    },
+    {
+      "district_id": "22",
+      "district_name": "Comilla",
+      "district_name_bn": "কুমিল্লা",
+      "lat": "23.4531337",
+      "lon": "91.1482051"
+    },
+    {
+      "district_id": "23",
+      "district_name": "Cox'sBazar",
+      "district_name_bn": "কক্সবাজার",
+      "lat": "21.4510433",
+      "lon": "91.9326899"
+    },
+    {
+      "district_id": "24",
+      "district_name": "Feni",
+      "district_name_bn": "ফেনী",
+      "lat": "23.0125595",
+      "lon": "91.1355411"
+    },
+    {
+      "district_id": "25",
+      "district_name": "Khagrachari",
+      "district_name_bn": "খাগড়াছড়ি",
+      "lat": "23.212405",
+      "lon": "91.3833133"
+    },
+    {
+      "district_id": "26",
+      "district_name": "Lakshmipur",
+      "district_name_bn": "লক্ষ্মীপুর",
+      "lat": "22.8724856",
+      "lon": "90.5242977"
+    },
+    {
+      "district_id": "27",
+      "district_name": "Noakhali",
+      "district_name_bn": "নোয়াখালী",
+      "lat": "22.5659853",
+      "lon": "90.5851944"
+    },
+    {
+      "district_id": "28",
+      "district_name": "Rangamati",
+      "district_name_bn": "রাঙ্গামাটি",
+      "lat": "22.8169178",
+      "lon": "91.7177252"
+    },
+    {
+      "district_id": "29",
+      "district_name": "Khulna",
+      "district_name_bn": "খুলনা",
+      "lat": "22.8454447",
+      "lon": "89.4622896"
+    },
+    {
+      "district_id": "30",
+      "district_name": "bagerhat",
+      "district_name_bn": "বাগেরহাট",
+      "lat": "22.6583013",
+      "lon": "89.7579143"
+    },
+    {
+      "district_id": "31",
+      "district_name": "Chuadanga",
+      "district_name_bn": "চুয়াডাঙ্গা",
+      "lat": "23.6057667",
+      "lon": "88.5410511"
+    },
+    {
+      "district_id": "32",
+      "district_name": "Jessore",
+      "district_name_bn": "যশোর",
+      "lat": "23.1651969",
+      "lon": "89.1584441"
+    },
+    {
+      "district_id": "33",
+      "district_name": "Jhenaidah",
+      "district_name_bn": "ঝিনাইদহ",
+      "lat": "23.4930717",
+      "lon": "88.7568079"
+    },
+    {
+      "district_id": "34",
+      "district_name": "Kushtia",
+      "district_name_bn": "কুষ্টিয়া",
+      "lat": "23.950207",
+      "lon": "88.751465"
+    },
+    {
+      "district_id": "35",
+      "district_name": "Magura",
+      "district_name_bn": "মাগুরা",
+      "lat": "23.464234",
+      "lon": "89.3023363"
+    },
+    {
+      "district_id": "36",
+      "district_name": "Meherpur",
+      "district_name_bn": "মেহেরপুর",
+      "lat": "23.7893449",
+      "lon": "88.5841481"
+    },
+    {
+      "district_id": "37",
+      "district_name": "Narail",
+      "district_name_bn": "নড়াইল",
+      "lat": "23.1664125",
+      "lon": "89.4945752"
+    },
+    {
+      "district_id": "38",
+      "district_name": "Satkhira",
+      "district_name_bn": "সাতক্ষীরা",
+      "lat": "22.2938586",
+      "lon": "88.5697928"
+    },
+    {
+      "district_id": "39",
+      "district_name": "Sylhet",
+      "district_name_bn": "সিলেট",
+      "lat": "24.8998373",
+      "lon": "91.8258765"
+    },
+    {
+      "district_id": "40",
+      "district_name": "Habiganj",
+      "district_name_bn": "হবিগঞ্জ",
+      "lat": "24.3365017",
+      "lon": "91.1454547"
+    },
+    {
+      "district_id": "41",
+      "district_name": "Maulivibazar",
+      "district_name_bn": "মৌলভীবাজার",
+      "lat": "24.4862296",
+      "lon": "91.666533"
+    },
+    {
+      "district_id": "42",
+      "district_name": "Sunamganj",
+      "district_name_bn": "সুনামগঞ্জ",
+      "lat": "24.8855283",
+      "lon": "91.056749"
+    },
+    {
+      "district_id": "43",
+      "district_name": "Barisal",
+      "district_name_bn": "বরিশাল",
+      "lat": "22.6954585",
+      "lon": "90.3186989"
+    },
+    {
+      "district_id": "44",
+      "district_name": "Borguna",
+      "district_name_bn": "বরগুনা",
+      "lat": "22.164427",
+      "lon": "89.845763"
+    },
+    {
+      "district_id": "45",
+      "district_name": "Bhola",
+      "district_name_bn": "ভোলা",
+      "lat": "22.2805359",
+      "lon": "90.1856091"
+    },
+    {
+      "district_id": "46",
+      "district_name": "Jhalkati",
+      "district_name_bn": "ঝালকাঠি",
+      "lat": "22.5645625",
+      "lon": "90.0653496"
+    },
+    {
+      "district_id": "47",
+      "district_name": "Patuakhali",
+      "district_name_bn": "পটুয়াখালী",
+      "lat": "22.1875597",
+      "lon": "90.0877626"
+    },
+    {
+      "district_id": "48",
+      "district_name": "Pirojpur",
+      "district_name_bn": "পিরোজপুর",
+      "lat": "22.5093526",
+      "lon": "89.7456845"
+    },
+    {
+      "district_id": "49",
+      "district_name": "Bogra",
+      "district_name_bn": "বগুড়া",
+      "lat": "24.8415208",
+      "lon": "89.2999945"
+    },
+    {
+      "district_id": "50",
+      "district_name": "Chapainawabganj",
+      "district_name_bn": "চাঁপাইনবাবগঞ্জ",
+      "lat": "24.6702709",
+      "lon": "87.9802338"
+    },
+    {
+      "district_id": "51",
+      "district_name": "Joypurhat",
+      "district_name_bn": "জয়পুরহাট",
+      "lat": "25.0678573",
+      "lon": "88.9598076"
+    },
+    {
+      "district_id": "52",
+      "district_name": "Naogaon",
+      "district_name_bn": "নওগাঁ",
+      "lat": "24.8739476",
+      "lon": "88.4998957"
+    },
+    {
+      "district_id": "53",
+      "district_name": "Natore",
+      "district_name_bn": "নাটোর",
+      "lat": "24.3807063",
+      "lon": "88.8122977"
+    },
+    {
+      "district_id": "54",
+      "district_name": "Pabna",
+      "district_name_bn": "পাবনা",
+      "lat": "24.0808511",
+      "lon": "89.0892089"
+    },
+    {
+      "district_id": "55",
+      "district_name": "Rajshahi",
+      "district_name_bn": "রাজশাহী",
+      "lat": "24.3801395",
+      "lon": "88.5708648"
+    },
+    {
+      "district_id": "56",
+      "district_name": "Sirajganj",
+      "district_name_bn": "সিরাজগঞ্জ",
+      "lat": "24.4016039",
+      "lon": "89.2558064"
+    },
+    {
+      "district_id": "57",
+      "district_name": "Rangpur",
+      "district_name_bn": "রংপুর",
+      "lat": "25.6250339",
+      "lon": "88.9516228"
+    },
+    {
+      "district_id": "58",
+      "district_name": "Dinajpur",
+      "district_name_bn": "দিনাজপুর",
+      "lat": "25.6433828",
+      "lon": "88.562327"
+    },
+    {
+      "district_id": "59",
+      "district_name": "Gaibandha",
+      "district_name_bn": "গাইবান্ধা",
+      "lat": "25.3399249",
+      "lon": "89.1906612"
+    },
+    {
+      "district_id": "60",
+      "district_name": "Kurigram",
+      "district_name_bn": "কুড়িগ্রাম",
+      "lat": "25.8071385",
+      "lon": "89.3858052"
+    },
+    {
+      "district_id": "61",
+      "district_name": "Lalmonirhat",
+      "district_name_bn": "লালমনিরহাট",
+      "lat": "26.126982",
+      "lon": "88.9561721"
+    },
+    {
+      "district_id": "62",
+      "district_name": "Nilphamari",
+      "district_name_bn": "নীলফামারী",
+      "lat": "26.0264709",
+      "lon": "88.6864062"
+    },
+    {
+      "district_id": "63",
+      "district_name": "Panchagarh",
+      "district_name_bn": "পঞ্চগড়",
+      "lat": "26.3210309",
+      "lon": "88.2789679"
+    },
+    {
+      "district_id": "64",
+      "district_name": "Thakurgaon",
+      "district_name_bn": "ঠাকুরগাঁও",
+      "lat": "25.9406294",
+      "lon": "88.0842608"
+    }
+  ]
+}
