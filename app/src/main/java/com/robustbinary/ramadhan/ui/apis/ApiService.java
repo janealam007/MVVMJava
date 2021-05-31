@@ -11,7 +11,6 @@ import retrofit2.http.FormUrlEncoded;
 import retrofit2.http.POST;
 
 public interface ApiService {
-
     @FormUrlEncoded
     @POST("getDistricts")
     Call<DistrictResponse> getDistricts(@FieldMap Map<String, String> params);
@@ -19,6 +18,4 @@ public interface ApiService {
     @FormUrlEncoded
     @POST("getRamadanSchedule")
     Call<RamadanResponse> getRamadanSchedule(@FieldMap Map<String, String> params);
-
-
 }

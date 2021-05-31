@@ -46,8 +46,8 @@ public class RamadhanAdapter extends RecyclerView.Adapter<RamadhanAdapter.BookSe
 
 
 
-    class BookSearchResultHolder extends RecyclerView.ViewHolder {
-        private TextView txt_district_name;
+    static class BookSearchResultHolder extends RecyclerView.ViewHolder {
+        private final TextView txt_district_name;
 
         public BookSearchResultHolder(@NonNull View itemView) {
             super(itemView);

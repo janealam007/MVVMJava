@@ -19,7 +19,6 @@ public class DistrictAdapter extends RecyclerView.Adapter<DistrictAdapter.BookSe
 
     public DistrictAdapter(List<DistrictData> data) {
         dataArrayList = data;
-
     }
 
     @NonNull
@@ -36,7 +35,6 @@ public class DistrictAdapter extends RecyclerView.Adapter<DistrictAdapter.BookSe
         DistrictData district = dataArrayList.get(position);
 
         holder.txt_district_name.setText(district.getDistrictNameBn());
-
     }
 
     @Override
@@ -44,14 +42,10 @@ public class DistrictAdapter extends RecyclerView.Adapter<DistrictAdapter.BookSe
         return dataArrayList.size();
     }
 
-
-
-    class BookSearchResultHolder extends RecyclerView.ViewHolder {
-        private TextView txt_district_name;
-
+    static class BookSearchResultHolder extends RecyclerView.ViewHolder {
+        private final TextView txt_district_name;
         public BookSearchResultHolder(@NonNull View itemView) {
             super(itemView);
-
             txt_district_name = itemView.findViewById(R.id.txt_district_name);
         }
     }

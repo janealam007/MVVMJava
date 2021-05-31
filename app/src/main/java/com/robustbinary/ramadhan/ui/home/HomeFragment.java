@@ -38,14 +38,14 @@ public class HomeFragment extends Fragment {
         homeViewModel = new ViewModelProvider(this).get(HomeViewModel.class);
         homeViewModel.init();
 
-        homeViewModel.getRamadanTime().observe(getActivity(), new Observer<RamadanResponse>() {
+        homeViewModel.getRamadanTime().observe(getViewLifecycleOwner(), new Observer<RamadanResponse>() {
             @Override
             public void onChanged(RamadanResponse ramadanResponse) {
                 Log.d("DistrictResponse"," RamadanResponse:"+ramadanResponse.getData().size() );
             }
         });
 
-        homeViewModel.getDistrict().observe(getActivity(), new Observer<DistrictResponse>() {
+        homeViewModel.getDistrict().observe(getViewLifecycleOwner(), new Observer<DistrictResponse>() {
             @Override
             public void onChanged(DistrictResponse response) {
                 if (response != null) {
@@ -84,7 +84,7 @@ public class HomeFragment extends Fragment {
         rclv_district = root.findViewById(R.id.rclv_district);
         rclv_district.setLayoutManager(new LinearLayoutManager(getContext()));
         LinearLayoutManager layoutManager
-                = new LinearLayoutManager(getActivity(), LinearLayoutManager.HORIZONTAL, true);
+                = new LinearLayoutManager(getActivity(), LinearLayoutManager.VERTICAL, true);
         rclv_district.setLayoutManager(layoutManager);
     }
 

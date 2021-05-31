@@ -16,12 +16,12 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-public class DistrictRepository {
+public class HomeRepository {
     private ApiService apiService;
     private MutableLiveData<DistrictResponse> districtResponseLiveData;
     private MutableLiveData<RamadanResponse> ramadanResponseLiveData;
 
-    public DistrictRepository() {
+    public HomeRepository() {
         districtResponseLiveData = new MutableLiveData<>();
         ramadanResponseLiveData = new MutableLiveData<>();
         apiService =  ApiClient.getClient();
